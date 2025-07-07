@@ -1,2 +1,3 @@
-# Project3
-An interactive web platform dedicated to improving your problem-solving skills and thinking outside of the box.
+# Project3 Overview 
+CogniFlow is an innovative web platform designed to empower individuals to think outside the box, enhance their cognitive abilities and stimulate creative problem solving. In an ever-evolving world, staying sharp, adaptable, and innovative is key. Cogniflow provides a dedicated space for users to engage in a variety of exercises and challenges tailored to improve not just specific skills logical reasoning , memory, but also their capacity for divergent thinking and unconventional solutions ultimately helping to unlock their full creative and problem solving potential.
+ While AI enhances convenience, our growing dependence on it may weaken human creativity and critical thinking, turning a powerful tool into a subtle crutch.
